@@ -4,7 +4,9 @@
   "private": true,
   "dependencies": {
     "@loadable/component": "^5.16.4",
+    "@react-spring/konva": "^9.7.5",
     "@react-spring/web": "^9.7.5",
+    "@react-three/fiber": "^9.1.0",
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.2.0",
@@ -15,7 +17,7 @@
     "openseadragon": "^5.0.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-konva": "^19.0.3",
+    "react-konva": "^18.2.10",
     "react-scripts": "5.0.1",
     "react-spring": "^9.7.5",
     "react-use-image": "^0.2.3",
